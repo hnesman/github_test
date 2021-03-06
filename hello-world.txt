@@ -1,8 +1,8 @@
-this is a practice file
--bullet point
+# this is a practice file
+- bullet point
 - or bullet point?
 
-**** how small is this?
-** in comparison
-*** to this?
-***or to this?
+#### how small is this?
+## in comparison
+### to this?
+###or to this?
